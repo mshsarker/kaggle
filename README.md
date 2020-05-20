@@ -1,2 +1,2 @@
 # kaggle and Others
-My kaggle projects. Only using R programming language
+My solutions to the kaggle projects and other projects from the Galaxy . But Only using THE R programming language
